@@ -1,5 +1,6 @@
 # Data Mining Projects Repository
 :heart::orange_heart::yellow_heart::green_heart::blue_heart::purple_heart:
+
 Welcome to my Data Mining Projects repository. This repository is a collection of various projects which showcases my journey and growth in the fascinating field of data mining.
 
 Data mining, an integral part of data science, involves discovering patterns and extracting valuable information from large datasets. It employs a variety of methods, including machine learning, statistics, and database systems, to transform raw data into useful information.
