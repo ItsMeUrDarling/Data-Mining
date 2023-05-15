@@ -1,2 +1,2 @@
-# Data-Mining
-My Data Mining Projects
+# 'kc_house' Analysis :building_construction:
+The data 'kc_house_data.csv' was provided by the course. The 'price' refers to the price of the house in dollars, 'bedrooms' refers to the number of bedrooms contained in a house, 'bathrooms' refer to the number of bathrooms included in a house, 'yr_built' refers to the year the house was built, 'sqft_living' refers to the living area of the house in square feet, and 'grade' refers to a score given according to the quality of the house.
