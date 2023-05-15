@@ -1,2 +1,2 @@
-# The Ames Housing dataset analysis
+# The Ames Housing dataset analysis :houses::derelict_house::house::house_with_garden:
 The Ames Housing dataset is a comprehensive collection of residential property sale data from Ames, Iowa, from 2006 to 2010. It was meticulously compiled by Professor Dean De Cock with the primary goal of serving as a valuable resource for data science education, particularly in regression analysis. This dataset was designed as a modern and more expansive alternative to the widely used Boston Housing dataset, offering a richer and more diverse set of variables for researchers and students to explore.
