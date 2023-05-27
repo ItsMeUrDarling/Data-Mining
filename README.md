@@ -1,4 +1,4 @@
-# Programming Skill Demand Analysis
+# Tech Industry Dynamics: An Investigation into Job Openings and Programming Language Demand
 :chart_with_downwards_trend::spiral_notepad::computer::minidisc::desktop_computer::floppy_disk::bookmark_tabs::chart_with_upwards_trend:
 
 Welcome to the repository of the "Programming Skill Demand Analysis" project. This project is aimed at understanding the correlation between job openings and the popularity of various programming languages.
