@@ -1,5 +1,5 @@
 # Data Mining Projects Repository
-:heart::orange_heart::yellow_heart::green_heart::blue_heart::purple_heart:
+:card_index::clipboard::file_cabinet::pick::hammer_and_wrench::mag_right:
 
 Welcome to my Data Mining Projects repository. This repository is a collection of various projects which showcases my journey and growth in the fascinating field of data mining.
 
