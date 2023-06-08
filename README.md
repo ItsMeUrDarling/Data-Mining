@@ -9,6 +9,14 @@ Each project in this repository is a testament to the application of different d
 
 The projects are implemented primarily in Python, utilizing a range of data science libraries such as pandas, NumPy, Scikit-learn, and Matplotlib, among others. Each project includes a comprehensive readme file that details the problem statement, dataset used, methodologies applied, and conclusions drawn.
 
-Lastly, I want to extend my heartfelt thanks to Dr. Jayash Koshal for his invaluable teachings and significant contributions to the code in these projects. His guidance and expertise have been instrumental in shaping this repository.
+## Structure of the Repository
+This repository is organized into multiple branches, each representing a different project. You can navigate between branches by clicking on the 'main' drop-down menu at the top of the repository page. Here's a brief guide:
 
+Navigating Branches: Use the 'main' drop-down menu to switch between different projects. Each branch corresponds to an individual project or assignment.
+
+Project Information: Each branch contains a comprehensive README file that provides an overview of the project, including the dataset used, the questions addressed, the methods employed, and the conclusions drawn.
+
+Downloading Projects: If you wish to download a project, click on the green 'Code' button and select 'Download ZIP' from the dropdown menu. This will download a ZIP file of the branch (project) you are currently viewing.
+
+## Usage
 Please feel free to explore the projects, provide feedback, or ask any questions. Enjoy your journey through this fascinating world of data mining!
